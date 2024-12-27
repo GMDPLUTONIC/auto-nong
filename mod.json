@@ -56,8 +56,7 @@
       "description": "Auto Nong indexes.\nFrom indexes the mod knows where to fetch the songs from.",
       "type": "custom",
       "default": [
-        "https://cdn.jsdelivr.net/gh/FlafyDev/auto-nong-indexes@dist/official.json.gz",
-        "https://cdn.jsdelivr.net/gh/FlafyDev/auto-nong-indexes@dist/sfh.json.gz"
+        "https://cdn.jsdelivr.net/gh/GMDPLUTONIC/nong-indexes@dist/official.json.gz"
       ]
     },
     "show-level-popup": {
